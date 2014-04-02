@@ -199,6 +199,10 @@ a:hover {
 .navbar-fixed-bottom .container {
   width: 940px;
 }
+.nav-collapse nav-collapse_  collapse,
+.nav sf-menu{
+	width: 940px;
+}
 .span12 {
   width: 940px;
 }
